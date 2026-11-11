@@ -1,0 +1,8 @@
+{
+    "model_name": "Optimized Random Forest",
+    "accuracy": 0.8852,
+    "precision": 0.4917,
+    "recall": 0.5776,
+    "f1_score": 0.5312,
+    "roc_auc": 0.8084
+}
